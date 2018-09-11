@@ -41,7 +41,7 @@ OpenSelectMap( ) {
       id: ids    
     };*/
 
-    this.navCtrl.push(LyMapGralPage,  this.paramsParaSegPag);
+  //  this.navCtrl.push(LyMapGralPage,  this.paramsParaSegPag);
   }
    
   
